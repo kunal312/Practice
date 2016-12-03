@@ -17,7 +17,7 @@ function showPosition(position) {
 	document.getElementById("demo").innerHTML = "Latitude: " + lat + 
     "<br>Longitude: " + long; 
 	
-	var url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +position.coords.latitude+","+position.coords.longitude+"&radius=1000&type=restaurant&key=AIzaSyCcfSwfYhkyTjKJJ8XrsoiCFKN8pNYTjGM";
+	var url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=" +position.coords.latitude+","+position.coords.longitude+"&radius=1000&type=restaurant&key=";
 	xml.open("GET", url, true);
 	xml.send();
 	var locn_map = "http://maps.googleapis.com/maps/api/staticmap?center=" +position.coords.latitude+ "," +position.coords.longitude+ "&zoom=14&size=400x300&sensor=false";
