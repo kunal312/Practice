@@ -14,7 +14,7 @@ public class TreeOperations {
         if(root!=null){
             int leftMax = maxElement(root.left);
             int rightMax = maxElement(root.right);
-            if(leftMax>rightMax){
+            if(leftMax<rightMax){
                 maxValue = leftMax;
             }
             else
