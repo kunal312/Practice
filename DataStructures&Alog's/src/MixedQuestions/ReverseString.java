@@ -27,7 +27,7 @@ public class ReverseString {
         public static void main(String[] args){
         ReverseString r = new ReverseString();
         System.out.println(r.reverseString("hello"));
-            System.out.print(r.reverseString("hell world Alice"));
+        System.out.print(r.reverseString("hell world Alice"));
 
         }
     }

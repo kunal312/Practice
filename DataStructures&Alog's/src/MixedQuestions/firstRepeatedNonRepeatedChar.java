@@ -52,9 +52,6 @@ public class firstRepeatedNonRepeatedChar {
 
         firstRepeatedNonRepeatedChar r = new firstRepeatedNonRepeatedChar();
         r.findrep("ybccbiiaagagagaijogaoxgag");
-
-
-
     }
 
 

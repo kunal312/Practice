@@ -13,6 +13,8 @@ public class SumLists {
 
     }
 
+    SumLists newnode;
+
     public SumLists(int data)
     {
         this.data = data;
@@ -25,7 +27,6 @@ public class SumLists {
 
         if (head==null)
         {
-            System.out.println("head");
             head=newnode;
             head.next=null;
         }
@@ -42,9 +43,37 @@ public class SumLists {
         }
     }
 
-    public void CalculateSum(SumLists l1,SumLists l2)
+    public SumLists CalculateSum(SumLists l1,SumLists l2)
     {
+        int carry = 0;
 
+        while(l1!=null || l2!=null){
+            int sum =0;
+
+            sum = sum+carry;
+
+
+            if(l1!=null)
+            {
+                sum = sum + l1.data;
+                l1=l1.next;
+            }
+            if(l2!=null)
+            {
+                sum = sum +l2.data;
+                l2=l2.next;
+            }
+
+            carry = sum/10;
+            insertAtEnd(sum%10);
+
+        }
+
+        if(carry>0){
+            insertAtEnd(carry);
+        }
+
+        return newnode;
     }
 
 
@@ -53,15 +82,19 @@ public class SumLists {
     {
 
         SumLists list1 = new SumLists();
-        list1.insertAtEnd(6);
-        list1.insertAtEnd(1);
-        list1.insertAtEnd(7);
+        list1.insertAtEnd(2);
+        list1.insertAtEnd(4);
+        list1.insertAtEnd(3);
         SumLists list2 = new SumLists();
-        list2.insertAtEnd(9);
-        list2.insertAtEnd(1);
         list2.insertAtEnd(5);
+        list2.insertAtEnd(6);
+        list2.insertAtEnd(4);
         SumLists l = new SumLists();
-        l.CalculateSum(list1.head,list2.head);
+        SumLists sum = l.CalculateSum(list1.head,list2.head);
+        while(sum!=null){
+            System.out.println("Sum:"+sum.data);
+            sum=sum.next;
+        }
 
 
 

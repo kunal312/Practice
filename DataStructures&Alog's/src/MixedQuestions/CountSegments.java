@@ -11,8 +11,6 @@ package MixedQuestions;
         Please note that the string does not contain any non-printable characters.
         Input: "Hello, my name is John"
         Output: 5*/
-
-
 public class CountSegments {
 
     public int cntSegments(String s){
@@ -38,7 +36,4 @@ public class CountSegments {
 
 
     }
-
-
-
 }
