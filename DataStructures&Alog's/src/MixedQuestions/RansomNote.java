@@ -24,35 +24,50 @@ public class RansomNote {
 
 
 
-        HashMap<Character,Integer> map = new HashMap<>();
-
-        for(char mag : magazine.toCharArray()){
-            if(map.containsKey(mag)){
-                map.put(mag,map.get(mag)+1);
+            int[] arr = new int[26];
+            for (int i = 0; i < magazine.length(); i++) {
+                System.out.println("Loop 1:"+arr[magazine.charAt(i) - 'a']);
+                arr[magazine.charAt(i) - 'a']++;
             }
-            else
-                map.put(mag,1);
-        }
-
-        for(char ran : ransomNote.toCharArray()){
-            if(map.containsKey(ran)){
-                if(map.get(ran)>1){
-                    map.put(ran,map.get(ran)-1);
+            for (int i = 0; i < ransomNote.length(); i++) {
+                if (--arr[ransomNote.charAt(i) - 'a'] < 0) {
+                    return false;
                 }
-                else
-                    map.remove(ran);
+            }
+            return true;
 
 
-            }else
-                return false;
-        }
 
-    return true;
+//        HashMap<Character,Integer> map = new HashMap<>();
+//
+//        for(char mag : magazine.toCharArray()){
+//            if(map.containsKey(mag)){
+//                map.put(mag,map.get(mag)+1);
+//            }
+//            else
+//                map.put(mag,1);
+//        }
+//
+//        for(char ran : ransomNote.toCharArray()){
+//            if(map.containsKey(ran)){
+//                if(map.get(ran)>1){
+//                    map.put(ran,map.get(ran)-1);
+//                }
+//                else
+//                    map.remove(ran);
+//
+//
+//            }else
+//                return false;
+//        }
+//
+//    return true;
 
-    }
+      }
+
 
     public static void main(String[] args){
         RansomNote rn = new RansomNote();
-        System.out.println(rn.canConstruct("aa","abb"));
+        System.out.println(rn.canConstruct("aa","aaaaaaaaabbbbbccccrrrr"));
     }
 }

@@ -1,5 +1,7 @@
 package MixedQuestions;
 
+import java.util.IntSummaryStatistics;
+
 /**
  * Created by kunal on 2/24/17.
  */
@@ -10,31 +12,45 @@ public class CompareVersionNumber {
             String [] str1 = version1.split("\\.");
             String [] str2 = version2.split("\\.");
 
-            System.out.println("String 1 lenght:"+str1.length);
+            int maxLength=Math.max(str1.length,str2.length);
 
-            System.out.println("String 2 lengttg:"+str2.length);
+            for(int i =0;i<maxLength;i++){
 
+                Integer v1,v2=0;
 
-            for(int i =0;i<str1.length;i++)
-            {
-                System.out.print("String 1:"+str1[i]);
-                for(int j =0;j<str2.length;j++){
-                    if(Integer.parseInt(str1[i])<Integer.parseInt(str2[j])){
-                        return -1;
-                    }
-                    else if(Integer.parseInt(str1[i])>Integer.parseInt(str2[j])){
-                        return 1;
-                    }
+                if(i<str1.length){
+                    v1 = Integer.parseInt(str1[i]);
                 }
+                else{
+                    v1=0;
+
+                }
+
+                if(i<str2.length){
+                    v2= Integer.parseInt(str2[i]);
+
+                }else{
+                    v2=0;
+                }
+
+                int compare = v1.compareTo(v2);
+
+                if(compare!=0)
+                    return compare;
             }
+
             return 0;
+
+
 
         }
 
         public static void main(String[] args){
 
             CompareVersionNumber cmp = new CompareVersionNumber();
-            cmp.compareVersion("1.1","0.1");
+            System.out.println(cmp.compareVersion("1.1","0.1"));
+            System.out.println(cmp.compareVersion("01","1"));
+            System.out.println(cmp.compareVersion("1.1","1.01.0"));
         }
 
 
