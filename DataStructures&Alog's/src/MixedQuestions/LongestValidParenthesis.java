@@ -8,6 +8,7 @@ public class LongestValidParenthesis {
 
     public void parenthesis(String str){
 
+
         Stack<Character> s = new Stack<>();
 
         for(int i=0;i<str.length();i++){

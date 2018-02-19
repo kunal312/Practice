@@ -38,6 +38,7 @@ public class ExcelSheetColumnNumber {
         System.out.println(string.titleToNumber("AB"));
         System.out.println(string.titleToNumber("AA"));
         System.out.println(string.titleToNumber("ABCDE"));
+        System.out.println(string.titleToNumber("ZZA"));
     }
 
 }

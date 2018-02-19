@@ -27,6 +27,12 @@ public class firstRepeatedNonRepeatedChar {
 
         }
 
+
+
+
+
+
+
         for(char c: ch){
             if(map.get(c)>1){
                 System.out.println("First Repeatating character "+c);
