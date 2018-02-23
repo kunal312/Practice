@@ -1,3 +1,5 @@
+This repository consists of various data structures algorithms and coding questions related to different topics.
+
 
 | Problem | Solution |
 | :------------ | :----------: |
