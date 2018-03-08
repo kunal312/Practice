@@ -10,4 +10,6 @@
 
  TREES
  
+ | Problem | Solution |
+ | :------------- | :----------: |
  | Merge Two Binary Trees                                 |[Solution](Trees/MergeTwoBinaryTrees.java)|
