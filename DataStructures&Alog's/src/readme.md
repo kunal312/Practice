@@ -13,3 +13,4 @@
  | Problem | Solution |
  | :------------- | :----------: |
  | Merge Two Binary Trees                                 |[Solution](Trees/MergeTwoBinaryTrees.java)|
+ | Average of Levels in Binary Tree                       |[Solution](Trees/AverageofLevelsInBinaryTree.java)|
