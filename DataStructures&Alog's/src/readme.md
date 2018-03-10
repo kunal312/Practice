@@ -14,3 +14,7 @@
  | :------------- | :----------: |
  | Merge Two Binary Trees                                 |[Solution](Trees/MergeTwoBinaryTrees.java)|
  | Average of Levels in Binary Tree                       |[Solution](Trees/AverageofLevelsInBinaryTree.java)|
+ | Convert String from Binary Tree                        |[Solution](Trees/StringfromBinaryTree.java)|
+ | Same Tree                                              |[Solution](Trees/SameTree.java)|
+
+ 
