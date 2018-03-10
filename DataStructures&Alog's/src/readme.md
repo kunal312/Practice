@@ -16,5 +16,6 @@
  | Average of Levels in Binary Tree                       |[Solution](Trees/AverageofLevelsInBinaryTree.java)|
  | Convert String from Binary Tree                        |[Solution](Trees/StringfromBinaryTree.java)|
  | Same Tree                                              |[Solution](Trees/SameTree.java)|
-
+ | Sum of Left Leaves                                     |[Solution](Trees/SumofLeftLeaves.java)|
+    
  
