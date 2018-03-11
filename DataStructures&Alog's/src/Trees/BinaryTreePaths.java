@@ -23,6 +23,7 @@ public class BinaryTreePaths {
     public List<String> binaryTreePaths(BinaryTreeNode root){
 
         List<String> res = new ArrayList<>();
+        if(root==null) return res;
         Queue<BinaryTreeNode> qNode  = new LinkedList<>();
         Queue<String> qStr = new LinkedList<>();
         qNode.offer(root);
