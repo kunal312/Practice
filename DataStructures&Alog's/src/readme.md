@@ -18,6 +18,8 @@
  | Same Tree                                              |[Solution](Trees/SameTree.java)|
  | Sum of Left Leaves                                     |[Solution](Trees/SumofLeftLeaves.java)|
  | Binary Tree Level Order Traveral II- Bottom Up         |[Solution](Trees/LeverOrderTraversal2.java)|
+ | Second Minimum Node In a Binary Tree                   |[Solution](Trees/SecMinNodeinBT.java)|
+ |  Binary Tree  Paths                                    |[Solution](Trees/BinaryTreePaths.java)|
   
  
  
