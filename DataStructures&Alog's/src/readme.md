@@ -20,6 +20,10 @@
  | Binary Tree Level Order Traveral II- Bottom Up         |[Solution](Trees/LeverOrderTraversal2.java)|
  | Second Minimum Node In a Binary Tree                   |[Solution](Trees/SecMinNodeinBT.java)|
  | Binary Tree  Paths                                     |[Solution](Trees/BinaryTreePaths.java)|
+ | Path SUM 2                                             |[Solution](Trees/PathSum2.java)|
+ | Path SUM                                               |[Solution](Trees/PathSum.java)|
+
+
   
  
  
