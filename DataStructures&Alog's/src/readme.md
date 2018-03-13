@@ -22,7 +22,7 @@
  | Binary Tree  Paths                                     |[Solution](Trees/BinaryTreePaths.java)|
  | Path SUM 2                                             |[Solution](Trees/PathSum2.java)|
  | Path SUM                                               |[Solution](Trees/PathSum.java)|
-
+ | Symmetric Tree(Check if two trees are mirror)          |[Solution](Trees/SymmetricTree.java)|   
 
   
  
