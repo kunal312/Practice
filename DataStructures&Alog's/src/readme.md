@@ -7,6 +7,8 @@
 | Word Pattern                                      |[Solution](MixedQuestions/WordPattern.java)|
 | Keyboard Row                                      |[Solution](MixedQuestions/KeyboardRow.java)|
 | Jewels and Stones                                 |[Solution](MixedQuestions/JewelsandStones.java)|
+| Missing Number                                    |[Solution](MixedQuestions/MissingNumber.java)|
+
 
  TREES
  
