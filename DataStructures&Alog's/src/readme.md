@@ -11,6 +11,7 @@
 | Intersection of two arrays II                     |[Solution](MixedQuestions/IntersectionofTwoArrays2.java)|
 | Intersection of two arrays                        |[Solution](MixedQuestions/IntersectionofTwoArrays.java)|
 | Find Duplicate                                    |[Solution](MixedQuestions/FindDuplicate.java)|
+| Find Missing Positive in O(n)  and O(1)           |[Solution](MixedQuestions/FirstMissingPositive.java)|
 
 
 
