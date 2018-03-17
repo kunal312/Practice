@@ -8,6 +8,8 @@
 | Keyboard Row                                      |[Solution](MixedQuestions/KeyboardRow.java)|
 | Jewels and Stones                                 |[Solution](MixedQuestions/JewelsandStones.java)|
 | Missing Number                                    |[Solution](MixedQuestions/MissingNumber.java)|
+| Intersection of two arrays II                     |[Solution](MixedQuestions/IntersectionofTwoArrays2.java)|
+
 
 
  TREES
