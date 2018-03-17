@@ -9,6 +9,9 @@
 | Jewels and Stones                                 |[Solution](MixedQuestions/JewelsandStones.java)|
 | Missing Number                                    |[Solution](MixedQuestions/MissingNumber.java)|
 | Intersection of two arrays II                     |[Solution](MixedQuestions/IntersectionofTwoArrays2.java)|
+| Intersection of two arrays                        |[Solution](MixedQuestions/IntersectionofTwoArrays.java)|
+
+
 
 
 
