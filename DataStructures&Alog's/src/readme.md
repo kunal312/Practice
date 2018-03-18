@@ -13,6 +13,7 @@
 | Find Duplicate                                    |[Solution](MixedQuestions/FindDuplicate.java)|
 | Find Missing Positive in O(n)  and O(1)           |[Solution](MixedQuestions/FirstMissingPositive.java)|
 | Sum of Two integers without using +,-             |[Solution](MixedQuestions/SumofTwoIntgers.java)|
+| Happy Number                                      |[Solution](MixedQuestions/HappyNumber.java)|
 
 
 
