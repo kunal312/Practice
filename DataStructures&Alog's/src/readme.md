@@ -16,6 +16,8 @@
 | Happy Number                                      |[Solution](MixedQuestions/HappyNumber.java)|
 | Maximum Sub Array                                 |[Solution](MixedQuestions/MaximumSubarray.java)|
 | House Robber                                      |[Solution](MixedQuestions/HouseRobber.java)|
+| Level Order Traversal- Return all levels          |[Solution](MixedQuestions/LeetCodeLevelOrderTraversal.java)|
+
 
 
 
