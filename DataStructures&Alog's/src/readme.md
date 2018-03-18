@@ -14,6 +14,7 @@
 | Find Missing Positive in O(n)  and O(1)           |[Solution](MixedQuestions/FirstMissingPositive.java)|
 | Sum of Two integers without using +,-             |[Solution](MixedQuestions/SumofTwoIntgers.java)|
 | Happy Number                                      |[Solution](MixedQuestions/HappyNumber.java)|
+| Maximum Sub Array                                 |[Solution](MixedQuestions/MaximumSubarray.java)|
 
 
 
