@@ -17,7 +17,7 @@
 | Maximum Sub Array                                 |[Solution](MixedQuestions/MaximumSubarray.java)|
 | House Robber                                      |[Solution](MixedQuestions/HouseRobber.java)|
 | Product of Array Except Self                      |[Solution](MixedQuestions/ProductofArrayExceptSelf.java)|
-
+| Remove Duplicates                                 |[Solution](MixedQuestions/RemoveDuplicates.java)|
 
 
 
