@@ -16,7 +16,7 @@
 | Happy Number                                      |[Solution](MixedQuestions/HappyNumber.java)|
 | Maximum Sub Array                                 |[Solution](MixedQuestions/MaximumSubarray.java)|
 | House Robber                                      |[Solution](MixedQuestions/HouseRobber.java)|
-| Level Order Traversal- Return all levels          |[Solution](MixedQuestions/LeetCodeLevelOrderTraversal.java)|
+| Product of Array Except Self                      |[Solution](MixedQuestions/ProductofArrayExceptSelf.java)|
 
 
 
@@ -39,6 +39,7 @@
  | Path SUM 2                                             |[Solution](Trees/PathSum2.java)|
  | Path SUM                                               |[Solution](Trees/PathSum.java)|
  | Symmetric Tree(Check if two trees are mirror)          |[Solution](Trees/SymmetricTree.java)|   
+ | Level Order Traversal- Return all levels               |[Solution](Trees/LeetCodeLevelOrderTraversal.java)|
 
   
  

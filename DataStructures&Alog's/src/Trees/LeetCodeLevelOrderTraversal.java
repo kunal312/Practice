@@ -3,6 +3,7 @@ import java.util.*;
 
 /**
  * Created by kunal on 3/18/18.
+ * return all levels.
  */
 public class LeetCodeLevelOrderTraversal {
 
