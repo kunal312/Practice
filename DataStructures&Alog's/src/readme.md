@@ -18,8 +18,7 @@
 | House Robber                                      |[Solution](MixedQuestions/HouseRobber.java)|
 | Product of Array Except Self                      |[Solution](MixedQuestions/ProductofArrayExceptSelf.java)|
 | Remove Duplicates                                 |[Solution](MixedQuestions/RemoveDuplicates.java)|
-
-
+| Four Sum 2                                        |[Solution](MixedQuestions/FourSum2.java)|
 
 
 
