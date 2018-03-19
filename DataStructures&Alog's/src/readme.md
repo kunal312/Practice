@@ -21,6 +21,7 @@
 | Four Sum 2                                        |[Solution](MixedQuestions/FourSum2.java)|
 | Group Anagrams                                    |[Solution](MixedQuestions/GroupAnagrams.java)|
 | Count Primes                                      |[Solution](MixedQuestions/CountPrimes.java)|
+| Ugly Number                                       |[Solution](MixedQuestions/UglyNumber.java)|
 
 
 
