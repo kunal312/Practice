@@ -22,6 +22,7 @@
 | Group Anagrams                                    |[Solution](MixedQuestions/GroupAnagrams.java)|
 | Count Primes                                      |[Solution](MixedQuestions/CountPrimes.java)|
 | Ugly Number                                       |[Solution](MixedQuestions/UglyNumber.java)|
+| Find Smallest Letter Greater Than Target          |[Solution](MixedQuestions/SmallestLetter.java)|
 
 
 

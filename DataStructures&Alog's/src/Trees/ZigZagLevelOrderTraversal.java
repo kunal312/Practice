@@ -41,6 +41,7 @@ public class ZigZagLevelOrderTraversal {
                     levels.add(0, root.data);
 
                 }
+
                 if (root.left != null) q.offer(root.left);
                 if (root.right != null) q.offer(root.right);
 
