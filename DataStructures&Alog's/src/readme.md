@@ -42,6 +42,7 @@
  | Path SUM                                               |[Solution](Trees/PathSum.java)|
  | Symmetric Tree(Check if two trees are mirror)          |[Solution](Trees/SymmetricTree.java)|   
  | Level Order Traversal- Return all levels               |[Solution](Trees/LeetCodeLevelOrderTraversal.java)|
+ | Find an Element in BST                                 |[Solution](Trees/BSTSearch.java)|
 
   
  
