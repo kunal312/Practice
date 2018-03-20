@@ -44,6 +44,7 @@
  | Level Order Traversal- Return all levels               |[Solution](Trees/LeetCodeLevelOrderTraversal.java)|
  | Find an Element in BST                                 |[Solution](Trees/BSTSearch.java)|
  | Find Min Element in BST                                |[Solution](Trees/MinElementinBST.java)|
+ | Two SUM 4 - input is BST                               |[Solution](Trees/TwoSumBST.java)|
 
   
  
