@@ -52,7 +52,7 @@ public class BSTSearch {
         tree.right.left = new BinaryTreeNode(8);
         tree.right.right = new BinaryTreeNode(11);
 
-       BSTSearch s = new BSTSearch();
+         BSTSearch s = new BSTSearch();
         System.out.println(s.FindRec(tree,11));
 
     }
