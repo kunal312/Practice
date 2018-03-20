@@ -23,6 +23,7 @@
 | Count Primes                                      |[Solution](MixedQuestions/CountPrimes.java)|
 | Ugly Number                                       |[Solution](MixedQuestions/UglyNumber.java)|
 | Find Smallest Letter Greater Than Target          |[Solution](MixedQuestions/SmallestLetter.java)|
+| Distribute Candies                                |[Solution](MixedQuestions/DistributeCandies.java)|
 
 
 
