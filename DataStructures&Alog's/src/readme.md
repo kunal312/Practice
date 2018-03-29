@@ -25,6 +25,7 @@
 | Find Smallest Letter Greater Than Target          |[Solution](MixedQuestions/SmallestLetter.java)|
 | Distribute Candies                                |[Solution](MixedQuestions/DistributeCandies.java)|
 | Set Mismatch                                      |[Solution](MixedQuestions/SetMismatch.java)|
+| Reverse Each Word of a String                     |[Solution](MixedQuestions/ReverseEachWord.java)|
 
 
 
