@@ -28,6 +28,8 @@
 | Reverse Each Word of a String                     |[Solution](MixedQuestions/ReverseEachWord.java)|
 | Minimum Window Substring                          |[Solution](MixedQuestions/MinimumWindowSubstring.java)|
 | Find All Anagrams in a String                     |[Solution](MixedQuestions/FindAllAnagrams.java)|
+| Isomorphic Strings  <Optimize>                              |[Solution](MixedQuestions/IsomorphicStrings.java)|
+
 
 
 
