@@ -2,6 +2,9 @@ package MixedQuestions;
 
 /**
  * Created by kunal on 3/29/18.
+ *
+ * Input : "Hello World"
+ * Output : "olleH" "dlrow"
  */
 public class ReverseEachWord {
 
