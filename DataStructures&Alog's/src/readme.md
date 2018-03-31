@@ -30,6 +30,7 @@
 | Find All Anagrams in a String                     |[Solution](MixedQuestions/FindAllAnagrams.java)|
 | Isomorphic Strings  <Optimize>                    |[Solution](MixedQuestions/IsomorphicStrings.java)|
 | Find All Duplicates in an Array                   |[Solution](MixedQuestions/FindAllDuplicatesinanArray.java)|
+| Find All Numbers Disappeared in an Array          |[Solution](MixedQuestions/FindAllDisappearedinArray.java)|
 
 
 
