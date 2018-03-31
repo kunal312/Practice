@@ -12,6 +12,7 @@ package MixedQuestions;
  */
 public class ReverseString2 {
     public String reverseStr(String s, int k) {
+
         if(k==0) return s;
         char [] ch=  s.toCharArray();
         int i=0;
