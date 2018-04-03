@@ -37,6 +37,7 @@
 | Student Record                                    |[Solution](MixedQuestions/StudentRecord.java)|
 | Pascal's Triangle 2                               |[Solution](MixedQuestions/PascalTriangle2.java)|
 | Longest Continuous Increasing Subsequence         |[Solution](MixedQuestions/LongestContinuousIncreasingSubsequence.java)|
+| Largest Number At Least Twice of Others           |[Solution](MixedQuestions/LargestNumberAtLeastTwiceofOthers.java)|
 
 
 
