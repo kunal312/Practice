@@ -16,12 +16,11 @@ public class ReverseString2 {
         if(k==0) return s;
         char [] ch=  s.toCharArray();
         int i=0;
-        while(i<ch.length){
-           int j = Math.min(i+k-1,ch.length-1);
-           swapChar(ch,i,j);
-           i+=2*k;
+        while(i<ch.length) {
+            int j = Math.min(i + k - 1, ch.length - 1);
+            swapChar(ch, i, j);
+            i += 2 * k;
         }
-
         return new String(ch);
     }
 

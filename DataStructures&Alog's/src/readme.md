@@ -34,7 +34,8 @@
 | Reverse String every k characters                 |[Solution](MixedQuestions/ReverseString2.java)|
 | Reverse Words in a String III                     |[Solution](MixedQuestions/ReverseWordsinaStringIII.java)|
 | Reverse Vowels                                    |[Solution](MixedQuestions/ReverseVowels.java)|
-
+| Student Record                                    |[Solution](MixedQuestions/StudentRecord.java)|
+| Pascal's Triangle 2                               |[Solution](MixedQuestions/PascalTriangle2.java)|
 
 
 
