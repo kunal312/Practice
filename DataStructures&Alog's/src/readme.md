@@ -38,6 +38,7 @@
 | Pascal's Triangle 2                               |[Solution](MixedQuestions/PascalTriangle2.java)|
 | Longest Continuous Increasing Subsequence         |[Solution](MixedQuestions/LongestContinuousIncreasingSubsequence.java)|
 | Largest Number At Least Twice of Others           |[Solution](MixedQuestions/LargestNumberAtLeastTwiceofOthers.java)|
+| Add Strings                                       |[Solution](MixedQuestions/AddStrings.java)|
 
 
 
