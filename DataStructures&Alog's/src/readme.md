@@ -39,8 +39,8 @@
 | Longest Continuous Increasing Subsequence         |[Solution](MixedQuestions/LongestContinuousIncreasingSubsequence.java)|
 | Largest Number At Least Twice of Others           |[Solution](MixedQuestions/LargestNumberAtLeastTwiceofOthers.java)|
 | Add Strings                                       |[Solution](MixedQuestions/AddStrings.java)|
-| HammingDistance                                   |[Solution](MixedQuestions/HammingDistance.java)|
-
+| Hamming Distance                                  |[Solution](MixedQuestions/HammingDistance.java)|
+| Single Number                                     |[Solution](MixedQuestions/SingleNumber.java)|
 
 
  TREES
