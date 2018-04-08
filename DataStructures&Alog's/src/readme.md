@@ -41,6 +41,7 @@
 | Add Strings                                       |[Solution](MixedQuestions/AddStrings.java)|
 | Hamming Distance                                  |[Solution](MixedQuestions/HammingDistance.java)|
 | Single Number                                     |[Solution](MixedQuestions/SingleNumber.java)|
+| Merge Sorted Array                                |[Solution](MixedQuestions/MergeSortedArray.java)|
 
 
  TREES
