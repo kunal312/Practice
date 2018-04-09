@@ -50,7 +50,6 @@ public class UniqueMorseCodeWords {
             set.add(str.toString());
         }
 
-
         return set.size();
     }
 
