@@ -46,6 +46,7 @@
 | Kth Largest Element in an Array                   |[Solution](MixedQuestions/KthLargestElementinanArray.java)|
 | Judge Route Circle                                |[Solution](MixedQuestions/JudgeRouteCircle.java)|
 | Array Partition I                                 |[Solution](MixedQuestions/ArrayPartitionI.java)|
+| Binary Number with Alternating Bits               |[Solution](MixedQuestions/BinaryNumberwithAlternatingBits.java)|
 
 
 
