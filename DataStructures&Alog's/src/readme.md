@@ -45,6 +45,7 @@
 | Unique Morse Code Words                           |[Solution](MixedQuestions/UniqueMorseCodeWords.java)|
 | Kth Largest Element in an Array                   |[Solution](MixedQuestions/KthLargestElementinanArray.java)|
 | Judge Route Circle                                |[Solution](MixedQuestions/JudgeRouteCircle.java)|
+| Array Partition I                                 |[Solution](MixedQuestions/ArrayPartitionI.java)|
 
 
 
