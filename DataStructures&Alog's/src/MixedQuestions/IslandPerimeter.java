@@ -15,6 +15,12 @@ package MixedQuestions;
  */
 public class IslandPerimeter {
 
+    //COmplexity =O(mn)
+    /*Check every row column if 1 increment the island counter.
+            If it is an island we need to check that right column is not 1 if so we increment the neigbhors count
+             If it is an island we also need to check the bottm row is 1 if so we increment the neighbors count
+      Finally result wil be 4 * island(that is 1's) - 2*(neighbors)
+    * */
     public int islandPerimeter(int[][] grid) {
         if(grid==null || grid.length == 0) return 0;
 
