@@ -48,8 +48,13 @@
 | Array Partition I                                 |[Solution](MixedQuestions/ArrayPartitionI.java)|
 | Binary Number with Alternating Bits               |[Solution](MixedQuestions/BinaryNumberwithAlternatingBits.java)|
 
-
-
+ Matrix
+ 
+ | Problem | Solution |
+ | :------------- | :----------: |
+ | Island Perimeter                                 |[Solution](Trees/IslandPerimeter.java)|
+ 
+ 
  TREES
  
  | Problem | Solution |
