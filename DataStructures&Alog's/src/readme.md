@@ -52,7 +52,7 @@
  
  | Problem | Solution |
  | :------------- | :----------: |
- | Island Perimeter                                 |[Solution](Trees/IslandPerimeter.java)|
+ | Island Perimeter                                 |[Solution](MixedQuestions/IslandPerimeter.java)|
  
  
  TREES
