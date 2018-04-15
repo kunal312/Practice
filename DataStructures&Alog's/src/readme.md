@@ -53,6 +53,8 @@
  | Problem | Solution |
  | :------------- | :----------: |
  | Island Perimeter                                 |[Solution](MixedQuestions/IslandPerimeter.java)|
+ | Max Area of Island                                  |[Solution](MixedQuestions/MaxAreaofIsland.java)|
+
  
  
  TREES
