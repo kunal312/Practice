@@ -57,7 +57,7 @@
  | Number of Islands                                |[Solution](MixedQuestions/NumberofIslands.java)|
  | Spiral Matrix                                    |[Solution](MixedQuestions/SpiralMatrix.java)|
  | Spiral Matrix II                                 |[Solution](MixedQuestions/SpiralMatrixII.java)|
-
+ | Set Matrix Zeroes                                  |[Solution](MixedQuestions/SetMatrixZeroes.java)|
 
  
  TREES
