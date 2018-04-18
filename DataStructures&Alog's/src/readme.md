@@ -47,6 +47,9 @@
 | Judge Route Circle                                |[Solution](MixedQuestions/JudgeRouteCircle.java)|
 | Array Partition I                                 |[Solution](MixedQuestions/ArrayPartitionI.java)|
 | Binary Number with Alternating Bits               |[Solution](MixedQuestions/BinaryNumberwithAlternatingBits.java)|
+| Longest Consecutive Sequence                      |[Solution](MixedQuestions/LongestConsecutiveSequence.java)|
+
+
 
  Matrix
  
