@@ -60,9 +60,10 @@
  | Set Matrix Zeroes                                |[Solution](MixedQuestions/SetMatrixZeroes.java)|
  | Rotate Matrix/Image                              |[Solution](MixedQuestions/RotateaMatrix.java)|
  | Search a 2d Matrix                               |[Solution](MixedQuestions/Searcha2dMatrix.java)|
+ | Search a 2d Matrix  II                           |[Solution](MixedQuestions/Searcha2dMatrix2.java)|
+ | Trapping the rain water                          |[Solution](MixedQuestions/Trappingtherainwater.java)|
 
 
- 
  TREES
  
  | Problem | Solution |
