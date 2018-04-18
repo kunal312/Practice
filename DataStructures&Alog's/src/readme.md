@@ -58,7 +58,8 @@
  | Spiral Matrix                                    |[Solution](MixedQuestions/SpiralMatrix.java)|
  | Spiral Matrix II                                 |[Solution](MixedQuestions/SpiralMatrixII.java)|
  | Set Matrix Zeroes                                |[Solution](MixedQuestions/SetMatrixZeroes.java)|
- | Rotate Matrixx/Image                             |[Solution](MixedQuestions/RotateaMatrix.java)|
+ | Rotate Matrix/Image                              |[Solution](MixedQuestions/RotateaMatrix.java)|
+ | Search a 2d Matrix                               |[Solution](MixedQuestions/Searcha2dMatrix.java)|
 
 
  
