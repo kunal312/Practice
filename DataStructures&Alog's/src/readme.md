@@ -72,6 +72,8 @@
  | Problem | Solution |
  | :------------- | :----------: |
  | Merge 2 Sorted Linked Lists                                 |[Solution](LinkedList/Merge2SortedLinkedLists.java)|
+ | Merge K Sorted Linked Lists                                 |[Solution](LinkedList/MergeKSortedLists.java)|
+
  
 
  TREES
