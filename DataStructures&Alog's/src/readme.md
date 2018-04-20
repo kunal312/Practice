@@ -91,6 +91,11 @@
  | Zig Zag Level Order Traversal                          |[Solution](Trees/ZigZagLevelOrderTraversal.java)|
 
  
-
+  Design Patterns
+  
+  | Problem | Solution |
+  | :------------- | :----------: |
+  | Singleton Patter                                      |[Solution](DesignPattern/Singleton.java)|
+ 
     
  
