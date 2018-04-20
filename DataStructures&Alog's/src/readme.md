@@ -48,6 +48,7 @@
 | Array Partition I                                 |[Solution](MixedQuestions/ArrayPartitionI.java)|
 | Binary Number with Alternating Bits               |[Solution](MixedQuestions/BinaryNumberwithAlternatingBits.java)|
 | Longest Consecutive Sequence                      |[Solution](MixedQuestions/LongestConsecutiveSequence.java)|
+| LRU Cache                                          |[Solution](MixedQuestions/LRUCache.java)|
 
 
 
