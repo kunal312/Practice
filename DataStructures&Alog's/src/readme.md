@@ -50,8 +50,7 @@
 | Longest Consecutive Sequence                      |[Solution](MixedQuestions/LongestConsecutiveSequence.java)|
 | LRU Cache                                         |[Solution](MixedQuestions/LRUCache.java)|
 | Valid Number                                      |[Solution](MixedQuestions/ValidNumber.java)|
-
-
+| Implement Hash Table                              |[Solution](MixedQuestions/HashTable.java)|
 
  Matrix
  
