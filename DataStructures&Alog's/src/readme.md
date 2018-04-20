@@ -67,6 +67,12 @@
  | Search a 2d Matrix  II                           |[Solution](MixedQuestions/Searcha2dMatrix2.java)|
  | Trapping the rain water                          |[Solution](MixedQuestions/Trappingtherainwater.java)|
 
+ LinkedLists
+ 
+ | Problem | Solution |
+ | :------------- | :----------: |
+ | Merge 2 Sorted Linked Lists                                 |[Solution](LinkedList/Merge2SortedLinkedLists.java)|
+ 
 
  TREES
  
