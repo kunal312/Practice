@@ -71,10 +71,17 @@
  
  | Problem | Solution |
  | :------------- | :----------: |
- | Merge 2 Sorted Linked Lists                                 |[Solution](LinkedList/Merge2SortedLinkedLists.java)|
- | Merge K Sorted Linked Lists                                 |[Solution](LinkedList/MergeKSortedLists.java)|
+ | Merge 2 Sorted Linked Lists                      |[Solution](LinkedList/Merge2SortedLinkedLists.java)|
+ | Merge K Sorted Linked Lists                      |[Solution](LinkedList/MergeKSortedLists.java)|
 
+ BackTracking
+  
+  | Problem | Solution |
+  | :------------- | :----------: |
+  | Subsets                                        |[Solution](BackTracking/Subsets.java)|
+  | Subsets2                                       |[Solution](BackTracking/Subsets2.java)|
  
+  
 
  TREES
  
