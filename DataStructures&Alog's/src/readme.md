@@ -80,7 +80,8 @@
   | :------------- | :----------: |
   | Subsets                                        |[Solution](BackTracking/Subsets.java)|
   | Subsets2                                       |[Solution](BackTracking/Subsets2.java)|
- 
+  | Permutations                                   |[Solution](BackTracking/Permutations.java)|
+
   
 
  TREES
