@@ -1,4 +1,4 @@
- This repository consists of various data structures algorithms and coding questions related to different topics.
+ This repository consists of various data structure algorithms and coding questions related to different topics.
 
 
 | Problem | Solution |
