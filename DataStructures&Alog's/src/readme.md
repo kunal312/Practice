@@ -51,6 +51,9 @@
 | LRU Cache                                         |[Solution](MixedQuestions/LRUCache.java)|
 | Valid Number                                      |[Solution](MixedQuestions/ValidNumber.java)|
 | Implement Hash Table                              |[Solution](MixedQuestions/HashTable.java)|
+| Length Of Largest Subarray with Contiguous Elements |[Solution](MixedQuestions/LengthOfLargestSubarraywithContiguousElements.java)|
+| Length Of Largest Subarray with Contiguous Elements(Duplicates) |[Solution](MixedQuestions/LengthOfLargestSubarraywithContiguousElementsDup.java)|
+
 
  Matrix
  
