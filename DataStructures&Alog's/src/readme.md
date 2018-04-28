@@ -53,6 +53,9 @@
 | Implement Hash Table                              |[Solution](MixedQuestions/HashTable.java)|
 | Length Of Largest Subarray with Contiguous Elements |[Solution](MixedQuestions/LengthOfLargestSubarraywithContiguousElements.java)|
 | Length Of Largest Subarray with Contiguous Elements(Duplicates) |[Solution](MixedQuestions/LengthOfLargestSubarraywithContiguousElementsDup.java)|
+| MajorityElement                                   |[Solution](MixedQuestions/LengthOfLargestSubarraywithContiguousElementsDup.java)|
+
+
 
 
  Matrix
